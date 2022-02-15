@@ -8,10 +8,6 @@
                                 padding: 0;
                                 font-family: 'Roboto', sans-serif;
                             }
-                            /* .bloc {
-    width: 1280px;
-    height: auto;
-} */
                             
                             header {
                                 display: flex;
@@ -22,6 +18,7 @@
                                 color: white;
                                 background-color: rgb(30, 30, 82);
                                 padding: 2%;
+                                width: 100%;
                             }
                             
                             h6 {
@@ -29,6 +26,7 @@
                             }
                             
                             #dl {
+                                padding: 4%;
                                 margin-bottom: 3%;
                                 background-color: 1;
                                 font-size: 40px;
@@ -161,5 +159,8 @@
                                 }
                                 #p2 {
                                     width: 70%;
+                                }
+                                .img {
+                                    width: 75%;
                                 }
                             }
